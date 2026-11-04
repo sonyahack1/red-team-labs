@@ -5,10 +5,11 @@
 </p>
 
 ---
-Welcome to my personal collection of writeups for machines and challenges on [Hack The Box](https://hackthebox.com/).
+
+Welcome to my personal collection of offensive security writeups for machines and challenges from various platforms — [Hack The Box](https://www.hackthebox.com/), [TryHackMe](https://tryhackme.com/), [VulnHub](https://www.vulnhub.com/), [Root-Me](https://www.root-me.org/) and others.
 Each writeup includes my thought process, tools used, exploitation steps, and post-exploitation notes.
 
-Periodically I will return to the laboratories and machines I have completed and make any changes or improvements to my solutions.
+I periodically revisit the labs and machines I have completed to update and improve my solutions.
 
 ---
 
