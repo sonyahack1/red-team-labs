@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-   <img src="./screenshots/hackthebox_logo.png" alt="Logo"/>
+   <img src="./screenshots/red-team-logo.png" alt="Logo"/>
 </p>
 
 ---
